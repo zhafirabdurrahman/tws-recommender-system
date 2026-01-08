@@ -81,7 +81,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
 
 ## 📊 Project Output
 
-[SoundScout Tableau Dashboard](https://public.tableau.com/app/profile/ivan.carlos.tambunan/viz/SoundScout/SoundScoutDashboard?publish=yes)
+[SoundScout Tableau Dashboard](https://public.tableau.com/app/profile/ivan.carlos.tambunan/viz/SoundScout/SoundScoutDashboard?publish=yes)  
 [SoundScout App](https://huggingface.co/spaces/zikosetyawan/soundscout-app)
 
 ## 📂 Project Structure
