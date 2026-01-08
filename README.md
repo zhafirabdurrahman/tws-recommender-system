@@ -4,6 +4,7 @@
   <p><i>Navigate the Noise, Find Your Perfect Sound</i></p>
 </div>
 
+[SoundScout](https://huggingface.co/spaces/zikosetyawan/soundscout-app) 
 ---
 
 ## 📌 Program Description
