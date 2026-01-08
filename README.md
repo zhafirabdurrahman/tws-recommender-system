@@ -79,6 +79,10 @@ Proyek ini dibangun menggunakan **Python** dan **SQL** sebagai bahasa utama, den
     * Menghitung kedekatan antar produk menggunakan *Cosine Similarity*.
 5.  **Recommendation**: Menampilkan daftar 3 produk terbaik berdasarkan kemiripan fitur dengan input preferensi pengguna.
 
+## 📊 Project Output
+
+[SoundScout Tableau Dashboard](https://public.tableau.com/app/profile/ivan.carlos.tambunan/viz/SoundScout/SoundScoutDashboard?publish=yes)
+
 ## 📂 Project Structure
 
 ```text
@@ -96,7 +100,7 @@ Jika Anda memiliki pertanyaan mengenai proyek ini atau ingin berkolaborasi, sila
 | Nama Anggota | Kontak | GitHub | LinkedIn|
 | :--- | :--- | :--- | :--- |
 | **Muhammad Zhafir Abdurrahman** |muhammadzhafirabdurrahman@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhafirabdurrahman) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzhafirabdurrahman) |
-| **Ivan Carlos T** | muhammadzhafirabdurrahman@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhafirabdurrahman) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadzhafirabdurrahman) |
+| **Ivan Carlos Tambunan** | ivantambunan02@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ivan-carlos02/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivancarlostambunan/) |
 | **Muhammad Ziko** | muhammadzhafirabdurrahman@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhafirabdurrahman) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadzhafirabdurrahman) |
 
 
