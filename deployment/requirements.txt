@@ -1,0 +1,13 @@
+streamlit==1.44.0
+pandas
+matplotlib
+seaborn
+numpy
+gensim
+scikit-learn
+nltk
+pillow
+plotly
+numpy
+joblib
+wordcloud
