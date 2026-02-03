@@ -89,7 +89,7 @@ This project is built using **Python** as the primary language, supported by the
 ├── EDA.ipynb                 # Exploratory Data Analysis notebook
 ├── modeling.ipynb            # Word2Vec & recommendation modeling
 └── README.md                 # Project documentation
-
+```
 ## 📩 Contact Information
 
 If you have any questions regarding this project or would like to collaborate, please feel free to contact our team:
