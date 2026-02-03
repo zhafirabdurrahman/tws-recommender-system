@@ -89,3 +89,20 @@ This project is built using **Python** as the primary language, supported by the
 ├── EDA.ipynb                 # Exploratory Data Analysis notebook
 ├── modeling.ipynb            # Word2Vec & recommendation modeling
 └── README.md                 # Project documentation
+
+## 📩 Contact Information
+
+If you have any questions regarding this project or would like to collaborate, please feel free to contact our team:
+
+| Team Member | Contact | GitHub | LinkedIn |
+| :--- | :--- | :--- | :--- |
+| **Muhammad Zhafir Abdurrahman** | muhammadzhafirabdurrahman@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zhafirabdurrahman) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzhafirabdurrahman) |
+| **Ivan Carlos Tambunan** | ivantambunan02@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ivan-carlos02/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivancarlostambunan/) |
+| **Muhammad Ziko** | zikomuhammad2@gmail.com | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zikosetyawan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ziko-ananda-setyawan-30b40a1b4/) |
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Streamlit-red.svg)](https://streamlit.io/)
+[![Scraping](https://img.shields.io/badge/Library-BeautifulSoup4-green.svg)](https://www.crummy.com/software/BeautifulSoup/)
+[![NLP](https://img.shields.io/badge/NLP-Word2Vec-orange.svg)](https://radimrehurek.com/gensim/models/word2vec.html)
+[![Deployment](https://img.shields.io/badge/Deployment-HuggingFace-yellow.svg)](https://huggingface.co/)
+
